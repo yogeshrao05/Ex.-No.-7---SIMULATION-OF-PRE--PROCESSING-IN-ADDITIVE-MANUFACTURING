@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,29 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2023-05-30 175044](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/439f8c3f-3ea6-4554-8c09-e2a1fb620524)
+Preparing a CAD (Computer-Aided Design) file for 3D printing involves several important steps to ensure optimal printability and desired outcomes. Here's a detailed guide on how to prepare a CAD file for 3D printing:
+The important to note that the base material thickness also depends on the design and geometry of the object being printed. Complex geometries or overhangs may require support structures, which can add additional material and affect the overall thickness.
+Ultimately, the appropriate base material thickness is determined by balancing the
+![Screenshot 2023-05-30 175051](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/0de329f9-1c7d-4f90-a758-c6c0359480c4)
+In additive manufacturing, the STL (Standard Tessellation Language) file format is commonly used for 3D models. Converting a 3D model to an STL file involves a process called triangulation, which converts the model's geometry into a mesh of interconnected triangles.
+
+![Screenshot 2023-05-30 175101](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fa753fc8-5d70-4c63-bddd-e9b4ec5fce10)
+ Adjust the scale and orientation of the model to match the desired size and fit within the print volume of the 3D printer. Consider the resolution and capabilities of the printer while determining the appropriate scaling factor. Orient the model to optimize printing, minimizing the need for supports or ensuring proper layer adhesion.
+ 
+![Screenshot 2023-05-30 175125](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/1e34d0c6-7783-41f9-9685-f84b477e21a7)
+ Determine if support structures are required to ensure successful printing. Some CAD software provides tools to manually add support structures, or you can rely on automatic support generation in the slicing software.3D printing support materials enable you to create and print complex geometries, parts with internal features, and parts that cannot be manufactured by any other method. Without support, your build material would deform before it hardened.
+
+![Screenshot 2023-05-30 175644](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/595f17af-19f4-4c82-8f2d-ad66dc572c28)
+: Import the CAD file into slicing software. Configure the slicing parameters, including layer height, print speed, infill density, support settings, and any other relevant parameters. Preview the sliced model in the software to identify any potential issues and make necessary adjustments.
+![Screenshot 2023-05-30 175655](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fb5740cd-c5e0-4ce5-86a4-a4c27f6c5d34)
+Path planning in 3D printing refers to the process of determining the optimal toolpath or trajectory that the 3D printer's nozzle or extruder will follow to create the desired object. This path planning is typically performed by the slicing software as part of the overall preparation process. Here are some key aspects of path planning in 3D printing:
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:  P.PradeepRaj
+### Register Number:212222240073
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
